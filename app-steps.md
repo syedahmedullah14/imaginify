@@ -33,3 +33,5 @@
 ## Create a MobileNav, use shadcn sheet component, Install it and then render the sidebar in root's layout
 
 ## Connect mongodb 
+# create mongoose.ts and write database logic
+# create differents i.e. user,image and transaction and define their schema also define an Interface for Image schema.
